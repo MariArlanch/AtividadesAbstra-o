@@ -1,0 +1,14 @@
+C:\Users\SENAI2EM\Desktop\BackEnd\POO\02 - Abstracao\bin\Debug\net8.0\02 - Abstracao.exe
+C:\Users\SENAI2EM\Desktop\BackEnd\POO\02 - Abstracao\bin\Debug\net8.0\02 - Abstracao.deps.json
+C:\Users\SENAI2EM\Desktop\BackEnd\POO\02 - Abstracao\bin\Debug\net8.0\02 - Abstracao.runtimeconfig.json
+C:\Users\SENAI2EM\Desktop\BackEnd\POO\02 - Abstracao\bin\Debug\net8.0\02 - Abstracao.dll
+C:\Users\SENAI2EM\Desktop\BackEnd\POO\02 - Abstracao\bin\Debug\net8.0\02 - Abstracao.pdb
+C:\Users\SENAI2EM\Desktop\BackEnd\POO\02 - Abstracao\obj\Debug\net8.0\02 - Abstracao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENAI2EM\Desktop\BackEnd\POO\02 - Abstracao\obj\Debug\net8.0\02 - Abstracao.AssemblyInfoInputs.cache
+C:\Users\SENAI2EM\Desktop\BackEnd\POO\02 - Abstracao\obj\Debug\net8.0\02 - Abstracao.AssemblyInfo.cs
+C:\Users\SENAI2EM\Desktop\BackEnd\POO\02 - Abstracao\obj\Debug\net8.0\02 - Abstracao.csproj.CoreCompileInputs.cache
+C:\Users\SENAI2EM\Desktop\BackEnd\POO\02 - Abstracao\obj\Debug\net8.0\02 - Abstracao.dll
+C:\Users\SENAI2EM\Desktop\BackEnd\POO\02 - Abstracao\obj\Debug\net8.0\refint\02 - Abstracao.dll
+C:\Users\SENAI2EM\Desktop\BackEnd\POO\02 - Abstracao\obj\Debug\net8.0\02 - Abstracao.pdb
+C:\Users\SENAI2EM\Desktop\BackEnd\POO\02 - Abstracao\obj\Debug\net8.0\02 - Abstracao.genruntimeconfig.cache
+C:\Users\SENAI2EM\Desktop\BackEnd\POO\02 - Abstracao\obj\Debug\net8.0\ref\02 - Abstracao.dll

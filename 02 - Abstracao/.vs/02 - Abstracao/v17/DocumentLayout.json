@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SENAI2EM\\Desktop\\BackEnd\\POO\\02 - Abstracao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D8056D0-6911-425F-B5B2-B7C1C09382EF}|02 - Abstracao.csproj|c:\\users\\senai2em\\desktop\\backend\\poo\\02 - abstracao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D8056D0-6911-425F-B5B2-B7C1C09382EF}|02 - Abstracao.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D8056D0-6911-425F-B5B2-B7C1C09382EF}|02 - Abstracao.csproj|c:\\users\\senai2em\\desktop\\backend\\poo\\02 - abstracao\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D8056D0-6911-425F-B5B2-B7C1C09382EF}|02 - Abstracao.csproj|solutionrelative:pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pet.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI2EM\\Desktop\\BackEnd\\POO\\02 - Abstracao\\Pet.cs",
+              "RelativeDocumentMoniker": "Pet.cs",
+              "ToolTip": "C:\\Users\\SENAI2EM\\Desktop\\BackEnd\\POO\\02 - Abstracao\\Pet.cs",
+              "RelativeToolTip": "Pet.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T10:45:56.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI2EM\\Desktop\\BackEnd\\POO\\02 - Abstracao\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\SENAI2EM\\Desktop\\BackEnd\\POO\\02 - Abstracao\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T10:42:18.285Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
